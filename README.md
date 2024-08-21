@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dheekshith B G</h1>
 <h3 align="center">CSE Student, ML Engineer and a Full Stack Developer</h3>
+<div align="center">
+	<img src="https://github.com/dheekshithbg/dheekshithbg/blob/main/main.gif">
+</div>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dheekshithbg" alt="dheekshithbg" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/d2f479f8-2005-43ae-bb36-e90333fa8f19/Future_of_Artificial_Intelligence.gif">
 
