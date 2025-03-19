@@ -13,7 +13,7 @@
 
 - 🔭 I’m working on **Machine Learning, Full Stack, and Blockchain projects.**
 - 🌱 I’m exploring **Computer Vision, NLP, and Deep Learning.**
-- 💬 Ask me about **AI/ML, Blockchain Technology & sFull Stack Development.**
+- 💬 Ask me about **AI/ML, Blockchain Technology & Full Stack Development.**
 - 📫 Reach me at **dheekshithbg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
