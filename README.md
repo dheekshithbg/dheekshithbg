@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dheekshith B G </h1>
-<h3 align="center">CSE Student | ML Engineer | Full Stack Developer</h3>
+<h3 align="center">CSE Student | Software Developer | AI/ML </h3>
 <div align="center">
 	<img src="https://github.com/dheekshithbg/dheekshithbg/blob/main/main.gif">
 </div>
@@ -13,7 +13,7 @@
 
 - 🔭 I’m working on **Machine Learning, Full Stack, and Blockchain projects.**
 - 🌱 I’m exploring **Computer Vision, NLP, and Deep Learning.**
-- 💬 Ask me about **AI/ML, Blockchain Technology & Full Stack Development.**
+- 💬 Ask me about **AI/ML, Blockchain Technology & sFull Stack Development.**
 - 📫 Reach me at **dheekshithbg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
