@@ -11,8 +11,8 @@
 </p>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/d2f479f8-2005-43ae-bb36-e90333fa8f19/Future_of_Artificial_Intelligence.gif">
 
-- 🔭 I’m working on **Machine Learning, Full Stack, and Blockchain projects.**
-- 🌱 I’m exploring **Spring Boot, NLP, and Deep Learning.**
+- 🔭 I’m working on **ML, Full Stack, and NLP projects.**
+- 🌱 I’m exploring **LLM, NLP, and Deep Learning.**
 - 💬 Ask me about **AI/ML, Blockchain Technology & Full Stack Development.**
 - 📫 Reach me at **dheekshithbg@gmail.com**
 
