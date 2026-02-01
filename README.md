@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dheekshith B G </h1>
-<h3 align="center"> Computer Science Engineer | Software Developer | AI/ML</h3>
+<h3 align="center"> Associate Data Science Engineer | AI/ML</h3>
 <div align="center">
 	<img src="https://github.com/dheekshithbg/dheekshithbg/blob/main/main.gif">
 </div>
